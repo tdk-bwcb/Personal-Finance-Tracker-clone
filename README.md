@@ -1,4 +1,4 @@
-# Python Master Project Tutorial
+# Python Master Project Tutorial - Personal Finance Tracker
 
 ## Overview
 
