@@ -1,8 +1,8 @@
-# Python Master Project Tutorial - Personal Finance Tracker
+# Python Personal Finance Tracker
 
 ## Overview
 
-This project is a Python application developed as part of the "Master Python With This ONE Project!" tutorial by Tech with Tim. The project allows users to record transactions, specifying the date, type (income or expense), and amount. Users can view their transactions within a specified date range, providing insights into their financial habits. 
+This project is a Python application that allows users to record transactions, specifying the date, type (income or expense), and amount. Users can view their transactions within a specified date range, providing insights into their financial habits. 
 
 
 ## Features
